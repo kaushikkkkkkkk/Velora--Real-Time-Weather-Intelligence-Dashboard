@@ -59,4 +59,6 @@ It visualizes weather conditions, temperature trends, and forecasts across multi
 ## Developer
 
 Developed by: Kaushik Gaja
+
+
 Dedicated to building data-driven, interactive, and modern web applications using React and JavaScript frameworks.
